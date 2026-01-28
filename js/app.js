@@ -4,7 +4,7 @@ function App() {
       <h1>Cadastro</h1>
 
       <input type="text" placeholder="Nome" />
-      <input type="text" placeholder="Sobrenome" />
+      <input type="text" placeholder="email" />
       <input type="number" placeholder="Idade" />
     </div>
   );
